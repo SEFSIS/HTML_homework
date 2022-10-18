@@ -1,0 +1,23 @@
+.wr{
+    height: 800px;
+    width: 1200px;
+    background: white;
+    display:flex;
+
+
+}
+.square {
+    background:white;
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+    border:solid black 1px;
+    text-align: center;
+    padding:50px 50px ;
+}
+.rectangle{
+    background: cornflowerblue;
+    margin: 150px 50px;
+    border:solid black 1px;
+
+}
