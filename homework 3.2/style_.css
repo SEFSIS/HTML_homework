@@ -1,0 +1,55 @@
+
+.wr{
+    height: 800px;
+    width: 1200px;
+    background: white;
+    display:flex;
+    margin-top: 100px;
+    margin-left: 300px;
+
+
+
+}
+.square {
+    background:white;
+    width: 250px;
+    height: 500px;
+    margin: 20px;
+    border:solid black 1px;
+    text-align: center;
+    padding:80px 50px ;
+    top: 200px;
+
+}
+.rectangle{
+   background: cornflowerblue;
+    margin: 150px 50px;
+    border:solid black 1px;
+
+}
+.circle{
+    width: 120px;
+    height: 120px;
+    background: white;
+    position:relative;
+    top:-780px;
+    border-radius:50%;
+    right: -70px;
+    border:solid black 1px;
+}
+.fa-gift{
+    color:cornflowerblue;
+    font-size: 60px;
+    padding-top: 20px;
+
+}
+.fa-umbrella{
+    color:cornflowerblue;
+    font-size: 60px;
+    padding-top: 20px;
+}
+.fa-paper-plane{
+    color:cornflowerblue;
+    font-size: 60px;
+    padding-top: 30px;
+}

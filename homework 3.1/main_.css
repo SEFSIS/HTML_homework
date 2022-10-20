@@ -1,0 +1,55 @@
+.general {
+    height: 600px;
+    width: 800px;
+    background: silver;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    box-sizing: border-box;
+    margin:auto;
+    margin-top: 100px;
+
+}
+    .block{
+        height: 350px;
+        width: 800px;
+        background: pink;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        position:relative;
+    }
+ .box{
+     width: 120px;
+     height: 120px;
+     background: cornflowerblue;
+     position:relative;
+     top:50px;
+     border-radius:10%;
+     margin-right: 20px;
+ }
+ .rectangle
+ {
+     width: 150px;
+     height: 50px;
+     background: deeppink;
+     border-radius:10%;
+     margin-top: -80px;
+     margin-bottom:20px;
+     margin-left: 60px;
+     display:flex;
+ }
+.fa-bars
+{
+    font-size:40px;
+    color:white;
+    padding-left: 10px;
+
+}
+.fa-magnifying-glass {
+    font-size:40px;
+    color:white;
+    padding-left: 600px;
+}
+
+
+
